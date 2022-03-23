@@ -19,7 +19,7 @@
 
 <h5><i>react.js, babel, bootstrap, skeleton etc..</i></h5>
 
-<p>Welcome to my GitHub! I'm <strong><i>always looking to contribute!</i></strong></p>
+<h1>Welcome to my GitHub!</h1>
 
 <a href = "mailto: gazibaradino@outlook.com"><i>Shoot a mail my way!</i></a>
 
