@@ -10,6 +10,8 @@
 <li>CSS3 :shipit:</li>
   
 <li>JavaScript :shipit:</li>
+  
+<li>React.js :shipit:</li>
 
 <li>Figma :shipit:</li>
 </ul>
