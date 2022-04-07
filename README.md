@@ -23,8 +23,6 @@
 
 <h3><i>Other:</i></h3>
 
-<h5><i>react.js, babel, bootstrap, skeleton etc..</i></h5>
-
 <h1>Welcome to my GitHub!</h1>
 
 <a target="_blank" href = "mailto: gazibaradino@outlook.com"><i>Shoot a mail my way!</i></a>
