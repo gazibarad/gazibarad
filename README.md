@@ -2,17 +2,15 @@
 
 <a target="_blank" href="https://gazibarad.pages.dev/"><i>Personal Portfolio<i></a>
   
+<a target="_blank" href="https://reactweather.pages.dev/"><i>Weather App<i></a>
+
 <a target="_blank" href="https://tabata.pages.dev/"><i>Interval Timer<i></a>
 
-<h3>:o: I'm a frontend developer based in Sarajevo :o:</h3>
+<h3>I'm a frontend developer based in Sarajevo</h3>
 
 <h4>Technologies:</h5>
 
-<ul>
-<li>HTML5 :shipit:</li>
-
-<li>CSS3 :shipit:</li>
-  
+<ul>  
 <li>JavaScript :shipit:</li>
   
 <li>React.js :shipit:</li>
