@@ -2,11 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/gazibarad/gazibarad/main/Banner.png"/>
 
+<a target="_blank" href="https://gazibarad.pages.dev/">Live Portfolio 🔗<a/>
+
 <h2>About ❔</h2>
 
 - ⚙️ web developer based in Sarajevo, :bosnia_herzegovina:
 - 🎨 design  & 💻 development 
-- 🧠MIND | 🏋️BODY | 🧞SOUL
+- 🧠 MIND  | 🏋️ BODY  | 🧞 SOUL
 
 <h2>Toolbox 🧰</h2>
 
