@@ -1,3 +1,9 @@
-<a href="https://github.com/victorabarros?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gazibarad&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+<!-- BANNER -->
+
+<h1> Hi, I'm DINO.</h1>
+
+<a href="https://github.com/gazibarad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gazibarad&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazibarad&theme=buefy&layout=compact" />
 </a>
+
