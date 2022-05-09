@@ -1,16 +1,20 @@
-<h1>Hi, I'm DINO🦕</h1>
+<h1>Hi, I'm Dino 🦕</h1>
 
 <!-- BANNER -->
 
 <h2>About ❔</h2>
-- web developer based in Sarajevo, :bosnia_herzegovina:
-- design 🎨 & development 💻
-- MIND🧠 | BODY🏋️ | SOUL🧞
+
+- ⚙️ web developer based in Sarajevo, :bosnia_herzegovina:
+- 🎨 design  & 💻 development 
+- 🧠MIND | 🏋️BODY | 🧞SOUL
 
 <h2>Toolbox 🧰</h2>
+
 - HTML, CSS, JavaScript 🔨
 - React.JS 🛠️
 - Figma 🖌️
+
+
 
 <br>
 <br>
