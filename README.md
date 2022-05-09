@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dino 🦕</h1>
 
-<!-- BANNER -->
+<img src="https://raw.githubusercontent.com/gazibarad/gazibarad/main/Banner.png"/>
 
 <h2>About ❔</h2>
 
@@ -13,6 +13,9 @@
 - HTML, CSS, JavaScript 🔨
 - React.JS 🛠️
 - Figma 🖌️
+
+<h2>Socials 🙋‍♂️</h2>
+
 
 
 
