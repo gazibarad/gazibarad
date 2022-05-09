@@ -16,7 +16,9 @@
 
 <h2>Socials 🙋‍♂️</h2>
 
-
+<a target="_blank" href="https://discord.com/users/367771422577131521"><img src="https://raw.githubusercontent.com/gazibarad/gazibarad/eed018d9da3242b0710c9af564b7414b16c565eb/disc.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="mailto:gazibaradino@outlook.com"><img src="https://raw.githubusercontent.com/gazibarad/gazibarad/eed018d9da3242b0710c9af564b7414b16c565eb/email.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/dino-gazibara"><img src="https://raw.githubusercontent.com/gazibarad/gazibarad/eed018d9da3242b0710c9af564b7414b16c565eb/linked.svg"></a>
 
 
 <br>
